@@ -5,7 +5,7 @@ import pyarubacentral
 # logging.basicConfig(level=logging.DEBUG)
 
 ## See Config settings
-# print(pyarubacentral.Config())
+#print(pyarubacentral.Config())
 
 #
 ## Set which profile to use from ~/.arubacentral/config.yaml
