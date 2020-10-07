@@ -1,0 +1,32 @@
+# Configuration file for this token refresh tool.
+#
+# URL for Aruba Centarl APIs
+# US-1: https://app1-apigw.central.arubanetworks.com
+# US-2: https://apigw-prod2.central.arubanetworks.com
+# CAN-1: https://apigw-ca.central.arubanetworks.com
+#
+# The URL for your account will be listed under the 
+# Maintenance > API Gateway within your Aruba Central
+# account.
+#
+#
+
+DEV-HILTI: 
+  # region is referenced from the ~/.arubacentral/regions.yml file
+  region: EU-1
+  # client_id, client_secret, customer_id are stored in the API Gateway 
+  # settings within Aruba Central
+  customer_id: 83c1f36332da49e4b9b4ff1ca1639e53
+  client_id: jz2ShGxryKYmiWs2FtMqSG1umuc2FvCo
+  client_secret: qBlOX5q1kuYP0DZJNpEZAdKezrHYgp89
+  # reference from ~/.arubacentral/accounts.yml file
+  user_account: profileOne
+
+PROD-HILTI: 
+  # region is referenced from the ~/.arubacentral/regions.yml file
+  region: EU-1
+  customer_id: ******
+  client_id: ************
+  client_secret: ************
+  # reference from ~/.arubacentral/accounts.yml file
+  user_account: profileTwo
