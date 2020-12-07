@@ -1,0 +1,5 @@
+"Device Name","Model","Firmware Version","Uptime","IP Address","Site","MAC","Group","Labels","Serial"
+"SARCALK-BG01","A9012","8.5.0.0-2.0.0.5_75559","1 day, 4:24:06","10.197.76.129","SARCALK","20:4c:03:b1:b1:5a","META-TSC-9012","","CNKKKLC00D"
+"LI-DCI01-SDAR02","A7220","8.4.0.0-1.0.6.4_74274","0:00:00","10.197.1.2","LI-DCI01","00:1a:1e:06:2a:e0","LI-DCI01-HGW","operational","CW0008384"
+"SEDCARL-BG01","A9012","8.5.0.0-2.0.0.5_75559","39 days, 21:01:20","10.197.17.3","SEDCARL","20:4c:03:b1:78:1a","E1-WH-9012","operational","CNK8KLC02D"
+"LI-DCI01-SDAR01","A7220","8.4.0.0-1.0.6.4_74274","22 days, 20:46:57","10.197.1.1","LI-DCI01","00:1a:1e:06:2a:68","LI-DCI01-HGW","operational","CW0008365"
