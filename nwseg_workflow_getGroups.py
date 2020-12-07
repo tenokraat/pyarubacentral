@@ -31,7 +31,3 @@ for group in group_data:
 print(group_data)
 
 print("DONE")
-
-# Rename AP using the workflow `workflows.config_apsettings_from_csv.py`
-#from pycentral.workflows.config_apsettings_from_csv import ApSettingsCsv
-#ApSettingsCsv(conn=central, csv_filename=csv_filename)
